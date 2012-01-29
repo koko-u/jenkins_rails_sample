@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArticlesController PUT update with invalid params" tests="2" time="0.035600966" failures="0" errors="0" skipped="0">
+  <testcase name="ArticlesController PUT update with invalid params assigns the article as @article" time="0.005766884">
+  </testcase>
+  <testcase name="ArticlesController PUT update with invalid params re-renders the 'edit' template" time="0.029558517">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

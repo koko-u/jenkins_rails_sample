@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArticlesHelper" tests="1" time="0.000436235" failures="0" errors="0" skipped="1">
+  <testcase name="ArticlesHelper add some examples to (or delete) /home/kozaki/study/rails-app/blog/spec/helpers/articles_helper_spec.rb (PENDING)" time="7.0653e-05">
+    <skipped/>
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

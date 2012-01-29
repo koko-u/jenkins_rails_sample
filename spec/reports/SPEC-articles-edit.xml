@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="articles/edit" tests="1" time="0.157097293" failures="0" errors="0" skipped="0">
+  <testcase name="articles/edit renders the edit article form" time="0.156626746">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

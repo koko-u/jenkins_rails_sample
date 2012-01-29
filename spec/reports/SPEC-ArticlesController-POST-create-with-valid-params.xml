@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArticlesController POST create with valid params" tests="3" time="0.014245304" failures="0" errors="0" skipped="0">
+  <testcase name="ArticlesController POST create with valid params creates a new Article" time="0.00605772">
+  </testcase>
+  <testcase name="ArticlesController POST create with valid params assigns a newly created article as @article" time="0.003969793">
+  </testcase>
+  <testcase name="ArticlesController POST create with valid params redirects to the created article" time="0.003909788">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

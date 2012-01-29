@@ -17,8 +17,5 @@
 # Ignore coverage reports
 /coverage
 
-# Ignore ci_report
-/spec/reports
-
 # Ignore vendor/bundle
 /vendor/bundle

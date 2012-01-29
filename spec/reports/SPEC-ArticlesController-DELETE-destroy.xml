@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArticlesController DELETE destroy" tests="2" time="0.011065115" failures="0" errors="0" skipped="0">
+  <testcase name="ArticlesController DELETE destroy destroys the requested article" time="0.005954587">
+  </testcase>
+  <testcase name="ArticlesController DELETE destroy redirects to the articles list" time="0.004749731">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

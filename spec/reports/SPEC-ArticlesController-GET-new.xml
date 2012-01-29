@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArticlesController GET new" tests="1" time="0.004019187" failures="0" errors="0" skipped="0">
+  <testcase name="ArticlesController GET new assigns a new article as @article" time="0.003820987">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

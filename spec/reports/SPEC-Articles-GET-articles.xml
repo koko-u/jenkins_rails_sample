@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Articles GET /articles" tests="1" time="0.059020327" failures="0" errors="0" skipped="0">
+  <testcase name="Articles GET /articles works! (now write some real specs)" time="0.058826035">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

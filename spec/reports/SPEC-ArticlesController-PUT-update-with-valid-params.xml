@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArticlesController PUT update with valid params" tests="3" time="0.015639638" failures="0" errors="0" skipped="0">
+  <testcase name="ArticlesController PUT update with valid params updates the requested article" time="0.005724431">
+  </testcase>
+  <testcase name="ArticlesController PUT update with valid params assigns the requested article as @article" time="0.005033732">
+  </testcase>
+  <testcase name="ArticlesController PUT update with valid params redirects to the article" time="0.004593531">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

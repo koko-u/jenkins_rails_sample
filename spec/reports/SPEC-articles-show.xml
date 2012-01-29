@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="articles/show" tests="1" time="0.004247934" failures="0" errors="0" skipped="0">
+  <testcase name="articles/show renders attributes in &lt;p&gt;" time="0.003795332">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>
